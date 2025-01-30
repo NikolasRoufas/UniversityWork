@@ -25,8 +25,8 @@ This section contains the academic assignments submitted as part of my coursewor
 
 Feel free to reach out to me for any collaboration, questions, or discussions related to my work:
 
-- **Email:** [your_email@example.com](mailto:nikolaosroufas@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikolaosroufas)
+- **Email:** [nikolaosroufas@gmail.com](mailto:nikolaosroufas@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nikolaosroufas](https://www.linkedin.com/in/nikolaosroufas)
 
 ## License
 
