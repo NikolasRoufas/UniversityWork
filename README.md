@@ -6,8 +6,7 @@ Welcome to my University Work repository! This repository contains all my projec
 
 1. [Projects](#projects)
 2. [Assignments](#assignments)
-3. [Resources](#resources)
-4. [Contact](#contact)
+3. [Contact](#contact)
 
 ## Projects
 
@@ -22,13 +21,6 @@ This section contains the academic assignments submitted as part of my coursewor
 - Any additional materials or resources that were part of the assignment.
 - using my brain (optional)
   
-## Resources
-
-Here, you'll find useful learning resources that I’ve gathered throughout my studies. These include:
-- Lecture notes.
-- Tutorials.
-- Reference materials for various topics in computer science.
-
 ## Contact
 
 Feel free to reach out to me for any collaboration, questions, or discussions related to my work:
