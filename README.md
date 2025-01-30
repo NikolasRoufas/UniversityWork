@@ -20,7 +20,8 @@ This section contains the academic assignments submitted as part of my coursewor
 - The assignment description.
 - My solution (usually in Jupyter Notebooks or Python scripts).
 - Any additional materials or resources that were part of the assignment.
-
+- using my brain (optional)
+  
 ## Resources
 
 Here, you'll find useful learning resources that I’ve gathered throughout my studies. These include:
