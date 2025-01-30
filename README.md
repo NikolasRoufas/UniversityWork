@@ -13,10 +13,6 @@ Welcome to my University Work repository! This repository contains all my projec
 
 This section includes all the personal and group projects I have worked on during my studies. Each project is located in its respective folder, and most of them come with a detailed explanation and code.
 
-- **AI Sentiment Analysis Tool:** A sentiment analysis application built using Python and the VaderSentiment library.
-- **Machine Learning Models:** A collection of various machine learning algorithms, including supervised and unsupervised learning approaches.
-- **Web Development:** Projects focused on front-end and back-end web development using React, JavaScript, and Python.
-- **Data Science Projects:** A collection of data analysis, preprocessing, and visualization projects using Python libraries like Pandas, NumPy, and Matplotlib.
 
 ## Assignments
 
@@ -36,8 +32,8 @@ Here, you'll find useful learning resources that I’ve gathered throughout my s
 
 Feel free to reach out to me for any collaboration, questions, or discussions related to my work:
 
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [your_email@example.com](mailto:nikolaosroufas@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nikolaosroufas)
 
 ## License
 
